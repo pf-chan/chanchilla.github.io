@@ -1,0 +1,27 @@
+header {
+    background-color: #00726E;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    box-shadow: 0 0 25px 0 black;
+}
+header * {
+    font-family: 'Spartan';
+    color: white;
+    display: inline;
+    margin-top: 35px;
+}
+header li {
+    margin: 10px;
+    margin: 0 40px 0 -10px;
+}
+header li a {
+    text-decoration: none;
+}
+header img {
+    height: 60px;
+    margin: 10px 20px;
+}
