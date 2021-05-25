@@ -1,2 +1,2 @@
 # chanchilla.github.io
-Personal portfolio *new*
+Personal portfolio, this is a personal project that hasn't been started yet
